@@ -1,4 +1,4 @@
-# SCT_CYB_4 – Basic Keylogger
+# SCT_CYBER 04 – Basic Keylogger
 
 **Task 04** for my Cyber Security Internship at **SkillCraft Technology**.
 
